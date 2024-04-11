@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "xunito2.github.io",
+  "Id": "f2ca347c-8146-4160-a273-3ccd0d420daf"
+}
